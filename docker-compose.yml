@@ -1,0 +1,13 @@
+services:
+  cyberhunt:
+    build: .
+    container_name: cyberhunt
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    command: uvicorn src.mcp.server:app --host 0.0.0.0 --port 8000 --reload
+
+
