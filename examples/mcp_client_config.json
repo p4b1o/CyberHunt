@@ -1,0 +1,32 @@
+{
+  "mcpServers": {
+    "cyberhunt": {
+      "command": "python",
+      "args": ["-m", "src.mcp_wrapper.client"],
+      "env": {
+        "CYBERHUNT_API_URL": "http://localhost:8000"
+      }
+    }
+  },
+  "tools": {
+    "cyberhunt": {
+      "name": "cyberhunt",
+      "description": "CyberHunt OSINT Toolkit - kompleksowe narzędzie do wyszukiwania informacji o ludziach w internecie",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "tool": {
+            "type": "string",
+            "enum": ["sherlock", "holehe", "hunter_domain", "hunter_verifier", "hunter_finder", "reconng"],
+            "description": "Narzędzie OSINT do użycia"
+          },
+          "parameters": {
+            "type": "object",
+            "description": "Parametry specyficzne dla wybranego narzędzia"
+          }
+        },
+        "required": ["tool", "parameters"]
+      }
+    }
+  }
+}

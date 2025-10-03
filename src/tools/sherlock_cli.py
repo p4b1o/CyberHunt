@@ -9,6 +9,9 @@ def run_sherlock(usernames: List[str]) -> dict:
         *usernames,
         "--print-found",
         "--timeout", "8",
+        "--no-color",
+        "--csv",
+        "--local",
     ]
     try:
         proc = subprocess.run(command, capture_output=True, text=True, check=False)

@@ -1,0 +1,57 @@
+{
+  "mcpServers": {
+    "cyberhunt": {
+      "command": "python",
+      "args": ["-m", "src.mcp_wrapper.client"],
+      "env": {
+        "CYBERHUNT_API_URL": "http://localhost:8000"
+      }
+    }
+  },
+  "tools": {
+    "cyberhunt": {
+      "name": "cyberhunt",
+      "description": "CyberHunt OSINT Toolkit - kompleksowe narzędzie do wyszukiwania informacji o ludziach w internecie",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "tool": {
+            "type": "string",
+            "enum": ["sherlock", "holehe", "hunter_domain", "hunter_verifier", "hunter_finder", "reconng"],
+            "description": "Narzędzie OSINT do użycia"
+          },
+          "parameters": {
+            "type": "object",
+            "description": "Parametry specyficzne dla wybranego narzędzia",
+            "properties": {
+              "usernames": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Lista nazw użytkowników (dla sherlock)"
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "description": "Adres e-mail (dla holehe, hunter_verifier)"
+              },
+              "domain": {
+                "type": "string",
+                "description": "Domena (dla hunter_domain, hunter_finder)"
+              },
+              "full_name": {
+                "type": "string",
+                "description": "Pełne imię i nazwisko (dla hunter_finder)"
+              },
+              "commands": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Lista poleceń (dla reconng)"
+              }
+            }
+          }
+        },
+        "required": ["tool", "parameters"]
+      }
+    }
+  }
+}
