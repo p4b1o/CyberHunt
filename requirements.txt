@@ -5,8 +5,7 @@ pydantic==2.9.2
 requests==2.32.3
 
 # OSINT tools
-holehe==1.61.7
-recon-ng==5.1.2
+holehe==1.61
 sherlock-project==0.14.3
 
 

@@ -14,8 +14,10 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 COPY requirements.txt /app/requirements.txt
 RUN pip install -r /app/requirements.txt
 
-# Opcjonalnie klon Sherlock, jeśli pipowy pakiet byłby niewystarczający
-# RUN git clone https://github.com/sherlock-project/sherlock /opt/sherlock
+# Instalacja recon-ng z GitHuba
+RUN git clone https://github.com/lanmaster53/recon-ng.git /opt/recon-ng
+RUN cd /opt/recon-ng && pip install -r REQUIREMENTS
+RUN ln -s /opt/recon-ng/recon-ng /usr/local/bin/recon-ng
 
 COPY . /app
 
