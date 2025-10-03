@@ -61,4 +61,30 @@ Przykład `RECONNG_API_KEYS`:
 ### MCP
 Serwer MCP eksponuje proste endpointy do uruchamiania powyższych narzędzi, zwracając ujednolicone JSON-y. Wrapper MCP ułatwia integrację z agentami AI.
 
+## 🎯 Integracja z Cursor IDE
+
+CyberHunt można zintegrować z Cursor jako MCP tool:
+
+### Szybka instalacja
+```bash
+./install_cursor_tool.sh
+```
+
+### Ręczna instalacja
+1. Utwórz virtual environment: `python3 -m venv venv`
+2. Aktywuj: `source venv/bin/activate`
+3. Zainstaluj: `pip install -r requirements.txt`
+4. Uruchom serwer: `docker compose up -d`
+5. Skonfiguruj Cursor z `cursor_mcp_config.json`
+
+Po instalacji możesz używać CyberHunt bezpośrednio w Cursor:
+- "Sprawdź e-mail john@example.com"
+- "Znajdź użytkownika janedoe na platformach"
+- "Przeszukaj domenę github.com"
+
+## 📚 Dokumentacja
+
+- [MCP Integration](docs/MCP_INTEGRATION.md)
+- [Cursor Integration](docs/CURSOR_INTEGRATION.md)
+
 

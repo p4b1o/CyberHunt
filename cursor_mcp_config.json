@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "cyberhunt": {
+      "command": "python",
+      "args": ["-m", "src.mcp_wrapper.client"],
+      "cwd": "/Users/pawelhordynski/cyberguru/CyberHunt",
+      "env": {
+        "CYBERHUNT_API_URL": "http://localhost:8000",
+        "PYTHONPATH": "/Users/pawelhordynski/cyberguru/CyberHunt/src"
+      }
+    }
+  }
+}

@@ -1,0 +1,216 @@
+username,name,url_main,url_user,exists,http_status,response_time_s
+testuser,1337x,https://www.1337x.to/,https://www.1337x.to/user/testuser/,Claimed,200,0.2401593330000651
+testuser,7Cups,https://www.7cups.com/,https://www.7cups.com/@testuser,Claimed,200,1.7143107510000846
+testuser,8tracks,https://8tracks.com/,https://8tracks.com/testuser,Claimed,530,0.15911387500000274
+testuser,9GAG,https://www.9gag.com/,https://www.9gag.com/u/testuser,Claimed,200,1.522019709000233
+testuser,About.me,https://about.me/,https://about.me/testuser,Claimed,200,0.4984970420000536
+testuser,Air Pilot Life,https://airlinepilot.life/,https://airlinepilot.life/u/testuser,Claimed,200,0.6476850839999315
+testuser,Airbit,https://airbit.com/,https://airbit.com/testuser,Claimed,200,0.22762775000001056
+testuser,Alik.cz,https://www.alik.cz/,https://www.alik.cz/u/testuser,Claimed,200,0.3006681669999125
+testuser,AllMyLinks,https://allmylinks.com/,https://allmylinks.com/testuser,Claimed,200,0.7854626670000471
+testuser,Amino,https://aminoapps.com,https://aminoapps.com/u/testuser,Claimed,200,0.4793422080001619
+testuser,AniWorld,https://aniworld.to/,https://aniworld.to/user/profil/testuser,Claimed,200,0.24693983399993158
+testuser,Anilist,https://anilist.co/,https://anilist.co/user/testuser/,Claimed,200,0.38590933299974495
+testuser,Apple Developer,https://developer.apple.com,https://developer.apple.com/forums/profile/testuser,Claimed,200,0.9920097499998519
+testuser,Apple Discussions,https://discussions.apple.com,https://discussions.apple.com/profile/testuser,Claimed,200,0.27336749999994936
+testuser,Archive of Our Own,https://archiveofourown.org/,https://archiveofourown.org/users/testuser,Claimed,200,0.5341152080000029
+testuser,Archive.org,https://archive.org,https://archive.org/details/@testuser,Claimed,404,0.7175150829998529
+testuser,ArtStation,https://www.artstation.com/,https://www.artstation.com/testuser,Claimed,200,0.4011054580000746
+testuser,Audiojungle,https://audiojungle.net/,https://audiojungle.net/user/testuser,Claimed,200,0.5914955420003025
+testuser,Bandcamp,https://www.bandcamp.com/,https://www.bandcamp.com/testuser,Claimed,200,1.1994078330003504
+testuser,Behance,https://www.behance.net/,https://www.behance.net/testuser,Claimed,200,0.7170284589997209
+testuser,Bezuzyteczna,https://bezuzyteczna.pl,https://bezuzyteczna.pl/uzytkownicy/testuser,Claimed,200,0.5740304169999035
+testuser,Bikemap,https://www.bikemap.net/,https://www.bikemap.net/en/u/testuser/routes/created/,Claimed,202,0.6937502079999831
+testuser,BitBucket,https://bitbucket.org/,https://bitbucket.org/testuser/,Claimed,200,1.3567016249999142
+testuser,BraveCommunity,https://community.brave.com/,https://community.brave.com/u/testuser/,Claimed,200,1.5143192929999714
+testuser,BugCrowd,https://bugcrowd.com/,https://bugcrowd.com/testuser,Claimed,200,1.8159169169998677
+testuser,BuyMeACoffee,https://www.buymeacoffee.com/,https://buymeacoff.ee/testuser,Claimed,200,1.5910623339996164
+testuser,BuzzFeed,https://buzzfeed.com/,https://buzzfeed.com/testuser,Claimed,200,1.2588300010002058
+testuser,CGTrader,https://www.cgtrader.com,https://www.cgtrader.com/testuser,Claimed,200,1.7044740419996742
+testuser,Championat,https://www.championat.com/,https://www.championat.com/user/testuser,Claimed,200,9.689153504999922
+testuser,Chess,https://www.chess.com/,https://www.chess.com/member/testuser,Claimed,200,1.5656589179998264
+testuser,Clapper,https://clapperapp.com/,https://clapperapp.com/testuser,Claimed,200,1.954321458999857
+testuser,Clozemaster,https://www.clozemaster.com,https://www.clozemaster.com/players/testuser,Claimed,200,1.8973108759996649
+testuser,Clubhouse,https://www.clubhouse.com,https://www.clubhouse.com/@testuser,Claimed,200,1.4868233759998475
+testuser,Codeberg,https://codeberg.org/,https://codeberg.org/testuser,Claimed,200,1.6955019179999908
+testuser,Codecademy,https://www.codecademy.com/,https://www.codecademy.com/profiles/testuser,Claimed,200,2.198378625999794
+testuser,Codechef,https://www.codechef.com/,https://www.codechef.com/users/testuser,Claimed,200,1.7800982919998205
+testuser,Codeforces,https://codeforces.com/,https://codeforces.com/profile/testuser,Claimed,200,1.6828657920000296
+testuser,Coders Rank,https://codersrank.io/,https://profile.codersrank.io/user/testuser/,Claimed,200,1.8507404169999973
+testuser,Coderwall,https://coderwall.com,https://coderwall.com/testuser,Claimed,200,2.7441301680000834
+testuser,Codewars,https://www.codewars.com,https://www.codewars.com/users/testuser,Claimed,200,1.9652128339998853
+testuser,Crowdin,https://crowdin.com/,https://crowdin.com/profile/testuser,Claimed,200,2.3080907930002468
+testuser,Cults3D,https://cults3d.com/en,https://cults3d.com/en/users/testuser/creations,Claimed,200,2.2711776260002807
+testuser,CyberDefenders,https://cyberdefenders.org/,https://cyberdefenders.org/p/testuser,Claimed,404,2.028945458999715
+testuser,DEV Community,https://dev.to/,https://dev.to/testuser,Claimed,200,2.044266668000091
+testuser,DeviantART,https://deviantart.com,https://testuser.deviantart.com,Claimed,200,3.3459617929997876
+testuser,Discogs,https://www.discogs.com/,https://www.discogs.com/user/testuser,Claimed,200,2.595306875999995
+testuser,Disqus,https://disqus.com/,https://disqus.com/testuser,Claimed,200,2.5562589179999122
+testuser,Dribbble,https://dribbble.com/,https://dribbble.com/testuser,Claimed,404,2.6339025010001933
+testuser,Duolingo,https://duolingo.com/,https://www.duolingo.com/profile/testuser,Claimed,200,2.9662519180001254
+testuser,Envato Forum,https://forums.envato.com/,https://forums.envato.com/u/testuser,Claimed,200,2.851624293000441
+testuser,Euw,https://euw.op.gg/,https://euw.op.gg/summoner/userName=testuser,Claimed,404,3.62333346000014
+testuser,Exposure,https://exposure.co/,https://testuser.exposure.co/,Claimed,200,2.875021209999886
+testuser,EyeEm,https://www.eyeem.com/,https://www.eyeem.com/u/testuser,Claimed,200,3.269968917999904
+testuser,Finanzfrage,https://www.finanzfrage.net/,https://www.finanzfrage.net/nutzer/testuser,Claimed,200,2.752106084999923
+testuser,Fiverr,https://www.fiverr.com/,https://www.fiverr.com/testuser,Claimed,403,2.838851918000273
+testuser,Flickr,https://www.flickr.com/,https://www.flickr.com/people/testuser,Claimed,200,3.0628232930002923
+testuser,Flightradar24,https://www.flightradar24.com/,https://my.flightradar24.com/testuser,Claimed,200,3.2149840010001753
+testuser,Flipboard,https://flipboard.com/,https://flipboard.com/@testuser,Claimed,200,2.9549805009996817
+testuser,Fosstodon,https://fosstodon.org/,https://fosstodon.org/@testuser,Claimed,200,2.8123832510000284
+testuser,Freelance.habr,https://freelance.habr.com/,https://freelance.habr.com/freelancers/testuser,Claimed,410,2.976876501999868
+testuser,Freelancer,https://www.freelancer.com/,https://www.freelancer.com/u/testuser,Claimed,200,3.1791434180004217
+testuser,Freesound,https://freesound.org/,https://freesound.org/people/testuser/,Claimed,200,3.2251402100000632
+testuser,GNOME VCS,https://gitlab.gnome.org/,https://gitlab.gnome.org/testuser,Claimed,200,3.2473991679999017
+testuser,GaiaOnline,https://www.gaiaonline.com/,https://www.gaiaonline.com/profiles/testuser,Claimed,200,5.204769919000228
+testuser,GeeksforGeeks,https://www.geeksforgeeks.org/,https://auth.geeksforgeeks.org/user/testuser,Claimed,200,3.9429671679999956
+testuser,Genius (Users),https://genius.com/,https://genius.com/testuser,Claimed,200,3.5785355009998057
+testuser,Gesundheitsfrage,https://www.gesundheitsfrage.net/,https://www.gesundheitsfrage.net/nutzer/testuser,Claimed,200,3.1792585430002873
+testuser,Giant Bomb,https://www.giantbomb.com/,https://www.giantbomb.com/profile/testuser/,Claimed,200,3.610588292999637
+testuser,Giphy,https://giphy.com/,https://giphy.com/testuser,Claimed,200,3.5203477520003617
+testuser,GitLab,https://gitlab.com/,https://gitlab.com/testuser,Claimed,200,3.7905780850001065
+testuser,Gitee,https://gitee.com/,https://gitee.com/testuser,Claimed,200,5.41813600200021
+testuser,GoodReads,https://www.goodreads.com/,https://www.goodreads.com/testuser,Claimed,200,4.758814711000014
+testuser,Grailed,https://www.grailed.com/,https://www.grailed.com/testuser,Claimed,200,3.567913125999894
+testuser,Gumroad,https://www.gumroad.com/,https://www.gumroad.com/testuser,Claimed,200,4.3772343349996845
+testuser,HackenProof (Hackers),https://hackenproof.com/,https://hackenproof.com/hackers/testuser,Claimed,403,3.6932002519997695
+testuser,HackerEarth,https://hackerearth.com/,https://hackerearth.com/@testuser,Claimed,200,5.4171383779998905
+testuser,HackerNews,https://news.ycombinator.com/,https://news.ycombinator.com/user?id=testuser,Claimed,200,4.497423084999809
+testuser,HackerRank,https://hackerrank.com/,https://hackerrank.com/testuser,Claimed,200,5.62594996100006
+testuser,Houzz,https://houzz.com/,https://houzz.com/user/testuser,Claimed,200,5.053825128000426
+testuser,HubPages,https://hubpages.com/,https://hubpages.com/@testuser,Claimed,200,4.452417168000011
+testuser,HudsonRock,https://hudsonrock.com,https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username=testuser,Claimed,200,4.002184877000218
+testuser,ICQ,https://icq.com/,https://icq.im/testuser/en,Claimed,200,5.312652752000304
+testuser,IFTTT,https://www.ifttt.com/,https://www.ifttt.com/p/testuser,Claimed,200,4.487334585000099
+testuser,Imgur,https://imgur.com/,https://imgur.com/user/testuser,Claimed,200,4.499887709999712
+testuser,Instagram,https://instagram.com/,https://instagram.com/testuser,Claimed,200,4.899157918999663
+testuser,Instructables,https://www.instructables.com/,https://www.instructables.com/member/testuser,Claimed,200,4.509847959999661
+testuser,Keybase,https://keybase.io/,https://keybase.io/testuser,Claimed,200,5.083957418999944
+testuser,Kick,https://kick.com/,https://kick.com/testuser,Claimed,200,5.154026293999777
+testuser,Kongregate,https://www.kongregate.com/,https://www.kongregate.com/accounts/testuser,Claimed,200,5.365890502999719
+testuser,LOR,https://linux.org.ru/,https://www.linux.org.ru/people/testuser/profile,Claimed,200,4.980562502000339
+testuser,Launchpad,https://launchpad.net/,https://launchpad.net/~testuser,Claimed,200,5.106867586000135
+testuser,LessWrong,https://www.lesswrong.com/,https://www.lesswrong.com/users/@testuser,Claimed,200,5.420002835000105
+testuser,Letterboxd,https://letterboxd.com/,https://letterboxd.com/testuser,Claimed,200,5.612428836000163
+testuser,LibraryThing,https://www.librarything.com/,https://www.librarything.com/profile/testuser,Claimed,403,5.083299251999961
+testuser,Lichess,https://lichess.org,https://lichess.org/@/testuser,Claimed,200,5.19397545999982
+testuser,Linktree,https://linktr.ee/,https://linktr.ee/testuser,Claimed,200,6.365599627999927
+testuser,Listed,https://listed.to/,https://listed.to/@testuser,Claimed,200,5.689934044999973
+testuser,LiveJournal,https://www.livejournal.com/,https://testuser.livejournal.com,Claimed,200,5.308445918999951
+testuser,MMORPG Forum,https://forums.mmorpg.com/,https://forums.mmorpg.com/profile/testuser,Claimed,200,5.4642155020001155
+testuser,Memrise,https://www.memrise.com/,https://www.memrise.com/user/testuser/,Claimed,200,6.29436541899986
+testuser,MixCloud,https://www.mixcloud.com/,https://www.mixcloud.com/testuser/,Claimed,200,5.634712669999772
+testuser,Monkeytype,https://monkeytype.com/,https://monkeytype.com/profile/testuser,Claimed,200,5.609912586000064
+testuser,MyAnimeList,https://myanimelist.net/,https://myanimelist.net/profile/testuser,Claimed,200,5.849816043999908
+testuser,MyMiniFactory,https://www.myminifactory.com/,https://www.myminifactory.com/users/testuser,Claimed,200,5.987631960999806
+testuser,Mydramalist,https://mydramalist.com,https://www.mydramalist.com/profile/testuser,Claimed,200,6.202877211000214
+testuser,NICommunityForum,https://www.native-instruments.com/forum/,https://community.native-instruments.com/profile/testuser,Claimed,200,6.000110586000119
+testuser,NationStates Nation,https://nationstates.net,https://nationstates.net/nation=testuser,Claimed,403,5.812278043999868
+testuser,NationStates Region,https://nationstates.net,https://nationstates.net/region=testuser,Claimed,403,5.852140253000016
+testuser,Naver,https://naver.com,https://blog.naver.com/testuser,Claimed,200,6.9587104199999885
+testuser,NintendoLife,https://www.nintendolife.com/,https://www.nintendolife.com/users/testuser,Claimed,200,5.923873961000027
+testuser,NitroType,https://www.nitrotype.com/,https://www.nitrotype.com/racer/testuser,Claimed,200,5.898907752000014
+testuser,NotABug.org,https://notabug.org/,https://notabug.org/testuser,Claimed,200,6.759840961000009
+testuser,Nyaa.si,https://nyaa.si/,https://nyaa.si/user/testuser,Claimed,200,6.133782377999978
+testuser,OpenStreetMap,https://www.openstreetmap.org/,https://www.openstreetmap.org/user/testuser,Claimed,200,6.229461503000039
+testuser,Pastebin,https://pastebin.com/,https://pastebin.com/u/testuser,Claimed,200,6.284310420000111
+testuser,Patreon,https://www.patreon.com/,https://www.patreon.com/testuser,Claimed,200,7.221311586999946
+testuser,PepperIT,https://www.pepper.it,https://www.pepper.it/profile/testuser/overview,Claimed,200,6.235197294000045
+testuser,Periscope,https://www.periscope.tv/,https://www.periscope.tv/testuser/,Claimed,200,7.932185919999938
+testuser,Pokemon Showdown,https://pokemonshowdown.com,https://pokemonshowdown.com/users/testuser,Claimed,200,6.594734627999969
+testuser,Polarsteps,https://polarsteps.com/,https://polarsteps.com/testuser,Claimed,200,6.7568909199999325
+testuser,ProductHunt,https://www.producthunt.com/,https://www.producthunt.com/@testuser,Claimed,200,6.789305127999796
+testuser,PromoDJ,http://promodj.com/,http://promodj.com/testuser,Claimed,200,8.53427512899998
+testuser,PyPi,https://pypi.org,https://pypi.org/user/testuser,Claimed,200,6.64218246099972
+testuser,Redbubble,https://www.redbubble.com/,https://www.redbubble.com/people/testuser,Claimed,200,7.131821253999988
+testuser,Reddit,https://www.reddit.com/,https://www.reddit.com/user/testuser,Claimed,200,7.19763692000015
+testuser,Replit.com,https://replit.com/,https://replit.com/@testuser,Claimed,200,6.838456545000099
+testuser,ReverbNation,https://www.reverbnation.com/,https://www.reverbnation.com/testuser,Claimed,200,7.4884331700000075
+testuser,Roblox,https://www.roblox.com/,https://www.roblox.com/user.aspx?username=testuser,Claimed,200,8.194324170000073
+testuser,RubyGems,https://rubygems.org/,https://rubygems.org/profiles/testuser,Claimed,200,7.175468128000375
+testuser,RuneScape,https://www.runescape.com/,https://apps.runescape.com/runemetrics/app/overview/player/testuser,Claimed,200,7.019097127999885
+testuser,SWAPD,https://swapd.co/,https://swapd.co/u/testuser,Claimed,200,7.474206294999931
+testuser,Scratch,https://scratch.mit.edu/,https://scratch.mit.edu/users/testuser,Claimed,200,7.62651875399979
+testuser,Scribd,https://www.scribd.com/,https://www.scribd.com/testuser,Claimed,200,7.866610587000196
+testuser,Shpock,https://www.shpock.com/,https://www.shpock.com/shop/testuser/items,Claimed,200,9.32716250400017
+testuser,Sketchfab,https://sketchfab.com/,https://sketchfab.com/testuser,Claimed,200,7.424698128000273
+testuser,Slack,https://slack.com,https://testuser.slack.com,Claimed,200,7.567069004000132
+testuser,Slant,https://www.slant.co/,https://www.slant.co/users/testuser,Claimed,200,8.197070129000167
+testuser,SlideShare,https://slideshare.net/,https://slideshare.net/testuser,Claimed,200,8.71422704600036
+testuser,Slides,https://slides.com/,https://slides.com/testuser,Claimed,200,7.996151253999869
+testuser,Smule,https://www.smule.com/,https://www.smule.com/testuser,Claimed,200,8.362012170000071
+testuser,Snapchat,https://www.snapchat.com,https://www.snapchat.com/add/testuser,Claimed,200,7.72534921200031
+testuser,SoundCloud,https://soundcloud.com/,https://soundcloud.com/testuser,Claimed,200,7.778151503000117
+testuser,Speedrun.com,https://speedrun.com/,https://speedrun.com/user/testuser,Claimed,403,7.95844321200002
+testuser,Splice,https://splice.com/,https://splice.com/testuser,Claimed,200,8.039638878999995
+testuser,Sporcle,https://www.sporcle.com/,https://www.sporcle.com/user/testuser/people,Claimed,200,8.876493711999956
+testuser,Spotify,https://open.spotify.com/,https://open.spotify.com/user/testuser,Claimed,200,8.432878794999851
+testuser,Star Citizen,https://robertsspaceindustries.com/,https://robertsspaceindustries.com/citizens/testuser,Claimed,200,8.639778795999973
+testuser,Steam Community (User),https://steamcommunity.com/,https://steamcommunity.com/id/testuser/,Claimed,200,8.475191212000027
+testuser,Strava,https://www.strava.com/,https://www.strava.com/athletes/testuser,Claimed,404,8.725904045999869
+testuser,SublimeForum,https://forum.sublimetext.com/,https://forum.sublimetext.com/u/testuser,Claimed,200,8.806039295000119
+testuser,TETR.IO,https://tetr.io,https://ch.tetr.io/u/testuser,Claimed,200,8.33363387899999
+testuser,TLDR Legal,https://tldrlegal.com/,https://tldrlegal.com/users/testuser/,Claimed,200,10.078179338000155
+testuser,TRAKTRAIN,https://traktrain.com/,https://traktrain.com/testuser,Claimed,200,9.041741338000065
+testuser,Telegram,https://t.me/,https://t.me/testuser,Claimed,200,8.484050961999856
+testuser,Tellonym.me,https://tellonym.me/,https://tellonym.me/testuser,Claimed,200,8.468131461999747
+testuser,Tenor,https://tenor.com/,https://tenor.com/users/testuser,Claimed,200,8.795292211999822
+testuser,ThemeForest,https://themeforest.net/,https://themeforest.net/user/testuser,Claimed,200,8.555384295000295
+testuser,TradingView,https://www.tradingview.com/,https://www.tradingview.com/u/testuser/,Claimed,200,8.757371794999926
+testuser,TrashboxRU,https://trashbox.ru/,https://trashbox.ru/users/testuser,Claimed,200,9.605808129000252
+testuser,Trawelling,https://traewelling.de/,https://traewelling.de/@testuser,Claimed,200,8.809251170000152
+testuser,Trello,https://trello.com/,https://trello.com/testuser,Claimed,200,8.882266961999903
+testuser,TryHackMe,https://tryhackme.com/,https://tryhackme.com/p/testuser,Claimed,200,8.689788587000294
+testuser,Twitch,https://www.twitch.tv/,https://www.twitch.tv/testuser,Claimed,200,8.771901337000145
+testuser,Twitter,https://twitter.com/,https://twitter.com/testuser,Claimed,200,8.879041128000154
+testuser,Typeracer,https://typeracer.com,https://data.typeracer.com/pit/profile?user=testuser,Claimed,200,9.006958753999697
+testuser,Unsplash,https://unsplash.com/,https://unsplash.com/@testuser,Claimed,200,9.310535795000305
+testuser,Untappd,https://untappd.com/,https://untappd.com/user/testuser,Claimed,200,9.629189337000298
+testuser,VK,https://vk.com/,https://vk.com/testuser,Claimed,200,9.432094088000213
+testuser,Velomania,https://forum.velomania.ru/,https://forum.velomania.ru/member.php?username=testuser,Claimed,200,9.03913796200004
+testuser,Venmo,https://venmo.com/,https://account.venmo.com/u/testuser,Claimed,200,9.609647004999715
+testuser,Vero,https://vero.co/,https://vero.co/testuser,Claimed,200,9.38351117000002
+testuser,Vimeo,https://vimeo.com/,https://vimeo.com/testuser,Claimed,200,9.300305586999912
+testuser,VirusTotal,https://www.virustotal.com/,https://www.virustotal.com/gui/user/testuser,Claimed,200,9.234794503999638
+testuser,Warrior Forum,https://www.warriorforum.com/,https://www.warriorforum.com/members/testuser.html,Claimed,200,9.600501629000064
+testuser,Wattpad,https://www.wattpad.com/,https://www.wattpad.com/user/testuser,Claimed,200,9.261019921000297
+testuser,Weblate,https://hosted.weblate.org/,https://hosted.weblate.org/user/testuser/,Claimed,200,9.373673587999747
+testuser,Wikidot,http://www.wikidot.com/,http://www.wikidot.com/user:info/testuser,Claimed,200,9.377150879000055
+testuser,Wikipedia,https://www.wikipedia.org/,https://en.wikipedia.org/wiki/Special:CentralAuth/testuser?uselang=qqx,Claimed,200,9.854389171000093
+testuser,WordPress,https://wordpress.com,https://testuser.wordpress.com/,Claimed,200,9.522366088000126
+testuser,WordPressOrg,https://wordpress.org/,https://profiles.wordpress.org/testuser/,Claimed,200,9.948809754000195
+testuser,Wordnik,https://www.wordnik.com/,https://www.wordnik.com/users/testuser,Claimed,200,10.645793379999759
+testuser,Wykop,https://www.wykop.pl,https://www.wykop.pl/ludzie/testuser,Claimed,200,9.967740087000038
+testuser,Xbox Gamertag,https://xboxgamertag.com/,https://xboxgamertag.com/search/testuser,Claimed,200,12.807017298000119
+testuser,YouNow,https://www.younow.com/,https://www.younow.com/testuser/,Claimed,200,10.169164670999635
+testuser,YouTube,https://www.youtube.com/,https://www.youtube.com/@testuser,Claimed,200,9.802344796000398
+testuser,Zhihu,https://www.zhihu.com/,https://www.zhihu.com/people/testuser,Claimed,403,10.667977922000318
+testuser,akniga,https://akniga.org/profile/blue/,https://akniga.org/profile/testuser,Claimed,200,10.028016046000175
+testuser,babyblogRU,https://www.babyblog.ru/,https://www.babyblog.ru/user/testuser,Claimed,200,9.91945012899987
+testuser,couchsurfing,https://www.couchsurfing.com/,https://www.couchsurfing.com/people/testuser,Claimed,200,10.320978921999995
+testuser,dailykos,https://www.dailykos.com,https://www.dailykos.com/user/testuser,Claimed,200,10.47077458800004
+testuser,datingRU,http://dating.ru,http://dating.ru/testuser,Claimed,200,11.002259672000037
+testuser,devRant,https://devrant.com/,https://devrant.com/users/testuser,Claimed,200,10.671766045999902
+testuser,drive2,https://www.drive2.ru/,https://www.drive2.ru/users/testuser,Claimed,200,10.283194754000306
+testuser,fixya,https://www.fixya.com,https://www.fixya.com/users/testuser,Claimed,200,10.08740821299989
+testuser,fl,https://www.fl.ru/,https://www.fl.ru/users/testuser,Claimed,200,11.263738670999828
+testuser,forum_guns,https://forum.guns.ru/,https://forum.guns.ru/forummisc/blog/testuser,Claimed,200,11.393177046999881
+testuser,freecodecamp,https://www.freecodecamp.org/,https://www.freecodecamp.org/testuser,Claimed,404,10.324554421999892
+testuser,furaffinity,https://www.furaffinity.net,https://www.furaffinity.net/user/testuser,Claimed,200,10.498976503999984
+testuser,geocaching,https://www.geocaching.com/,https://www.geocaching.com/p/default.aspx?u=testuser,Claimed,200,12.043890129999909
+testuser,habr,https://habr.com/,https://habr.com/ru/users/testuser,Claimed,200,10.571711463000156
+testuser,hackster,https://www.hackster.io,https://www.hackster.io/testuser,Claimed,200,11.195120839000083
+testuser,interpals,https://www.interpals.net/,https://www.interpals.net/testuser,Claimed,200,10.865261630000077
+testuser,jbzd.com.pl,https://jbzd.com.pl/,https://jbzd.com.pl/uzytkownik/testuser,Claimed,200,10.89684579599998
+testuser,jeuxvideo,https://www.jeuxvideo.com,https://www.jeuxvideo.com/profil/testuser,Claimed,200,10.99504683799978
+testuser,kofi,https://ko-fi.com,https://ko-fi.com/testuser,Claimed,200,10.843958087999908
+testuser,kwork,https://www.kwork.ru/,https://kwork.ru/user/testuser,Claimed,200,11.038083505000031
+testuser,last.fm,https://last.fm/,https://last.fm/user/testuser,Claimed,200,11.854766422000012
+testuser,mastodon.cloud,https://mastodon.cloud/,https://mastodon.cloud/@testuser,Claimed,200,11.826904380000087
+testuser,minds,https://www.minds.com,https://www.minds.com/testuser/,Claimed,200,11.38074233799989
+testuser,note,https://note.com/,https://note.com/testuser,Claimed,200,11.820897838999826
+testuser,opennet,https://www.opennet.ru/,https://www.opennet.ru/~testuser,Claimed,200,12.055333337999855
+testuser,osu!,https://osu.ppy.sh/,https://osu.ppy.sh/users/testuser,Claimed,200,12.240368756000407
+testuser,pikabu,https://pikabu.ru/,https://pikabu.ru/@testuser,Claimed,200,11.734817881000254
+testuser,pr0gramm,https://pr0gramm.com/,https://pr0gramm.com/user/testuser,Claimed,200,11.717662130000008
+testuser,svidbook,https://www.svidbook.ru/,https://www.svidbook.ru/user/testuser,Claimed,200,12.807226880999679
